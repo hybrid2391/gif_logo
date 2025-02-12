@@ -1,0 +1,1 @@
+Inserisci un file con estensione .gif all'interno della cartella GIF_LOGO. Rinominate il file in logo.gif
